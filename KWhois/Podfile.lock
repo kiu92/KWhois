@@ -1,0 +1,28 @@
+PODS:
+  - CocoaAsyncSocket (7.6.4)
+  - IQKeyboardManagerSwift (6.5.5)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - IQKeyboardManagerSwift
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - IQKeyboardManagerSwift
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: de9333e3692d64ce17674ed9e540473c365f97f6
+
+COCOAPODS: 1.8.3

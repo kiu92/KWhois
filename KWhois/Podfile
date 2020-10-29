@@ -1,0 +1,14 @@
+platform :ios, '10.0'
+
+use_frameworks!
+
+target 'KWhois' do
+    # 自动布局 https://github.com/SnapKit/SnapKit.git
+    pod 'SnapKit'
+    # swift解析json库 https://github.com/IBM-Swift/SwiftyJSON.git
+    pod 'SwiftyJSON'
+    # 解决键盘弹起遮挡工具
+    pod 'IQKeyboardManagerSwift'
+    # Socket
+    pod 'CocoaAsyncSocket'
+end
